@@ -1,0 +1,1770 @@
+[
+  {
+    "id": 1,
+    "query": "What are the symptoms of Diabetes?",
+    "intent": "symptoms",
+    "entity": "Diabetes",
+    "answer": "Common symptoms of Diabetes include frequent urination, excessive thirst, increased hunger, fatigue, and blurred vision.",
+    "language": "en"
+  },
+  {
+    "id": 145,
+    "query": "Tell me the signs of diabetes.",
+    "intent": "symptoms",
+    "entity": "Diabetes",
+    "answer": "Common symptoms of Diabetes include frequent urination, excessive thirst, increased hunger, fatigue, and blurred vision.",
+    "language": "en"
+  },
+  {
+    "id": 146,
+    "query": "I am feeling tired and thirsty, could it be diabetes?",
+    "intent": "symptoms",
+    "entity": "Diabetes",
+    "answer": "These are common symptoms of Diabetes. Please consult a doctor for a proper diagnosis.",
+    "language": "en"
+  },
+  {
+    "id": 2,
+    "query": "मधुमेह के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Diabetes",
+    "answer": "मधुमेह के सामान्य लक्षणों में बार-बार पेशाब आना, अत्यधिक प्यास, भूख बढ़ना, थकान और धुंधली दृष्टि शामिल हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 147,
+    "query": "मुझे थकान और प्यास लग रही है, क्या यह मधुमेह है?",
+    "intent": "symptoms",
+    "entity": "Diabetes",
+    "answer": "ये मधुमेह के सामान्य लक्षण हैं। कृपया सही निदान के लिए डॉक्टर से सलाह लें।",
+    "language": "hi"
+  },
+  {
+    "id": 3,
+    "query": "Madhumeh ke lakshan kya hain?",
+    "intent": "symptoms",
+    "entity": "Diabetes",
+    "answer": "Madhumeh ke samanya lakshan bar-bar peshab aana, atyadhik pyaas, bhukh badhna, thakaan aur dhundhli drishti hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 148,
+    "query": "Diabetes ke kya signs hote hain?",
+    "intent": "symptoms",
+    "entity": "Diabetes",
+    "answer": "Madhumeh ke samanya lakshan bar-bar peshab aana, atyadhik pyaas, bhukh badhna, thakaan aur dhundhli drishti hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 4,
+    "query": "What causes Diabetes?",
+    "intent": "causes",
+    "entity": "Diabetes",
+    "answer": "Diabetes is caused by insufficient insulin production or the body's inability to use insulin effectively.",
+    "language": "en"
+  },
+  {
+    "id": 149,
+    "query": "Why do people get Diabetes?",
+    "intent": "causes",
+    "entity": "Diabetes",
+    "answer": "Diabetes is caused by insufficient insulin production or the body's inability to use insulin effectively.",
+    "language": "en"
+  },
+  {
+    "id": 5,
+    "query": "मधुमेह का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Diabetes",
+    "answer": "मधुमेह का कारण इंसुलिन का अपर्याप्त उत्पादन या शरीर की क्षमता में कमी है।",
+    "language": "hi"
+  },
+  {
+    "id": 150,
+    "query": "लोग मधुमेह से पीड़ित क्यों होते हैं?",
+    "intent": "causes",
+    "entity": "Diabetes",
+    "answer": "मधुमेह का कारण इंसुलिन का अपर्याप्त उत्पादन या शरीर की क्षमता में कमी है।",
+    "language": "hi"
+  },
+  {
+    "id": 6,
+    "query": "Madhumeh ka karan kya hai?",
+    "intent": "causes",
+    "entity": "Diabetes",
+    "answer": "Madhumeh ka karan insulin ka apryapt utpadan ya sharir ki kshamata mein kami hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 151,
+    "query": "Kis wajah se madhumeh hota hai?",
+    "intent": "causes",
+    "entity": "Diabetes",
+    "answer": "Madhumeh ka karan insulin ka apryapt utpadan ya sharir ki kshamata mein kami hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 7,
+    "query": "How can we prevent Diabetes?",
+    "intent": "prevention",
+    "entity": "Diabetes",
+    "answer": "Maintain a healthy diet, regular exercise, avoid excess sugar intake, and monitor blood sugar levels regularly.",
+    "language": "en"
+  },
+  {
+    "id": 152,
+    "query": "What can I do to prevent diabetes?",
+    "intent": "prevention",
+    "entity": "Diabetes",
+    "answer": "Maintain a healthy diet, regular exercise, avoid excess sugar intake, and monitor blood sugar levels regularly.",
+    "language": "en"
+  },
+  {
+    "id": 8,
+    "query": "मधुमेह को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Diabetes",
+    "answer": "स्वस्थ आहार, नियमित व्यायाम, अत्यधिक चीनी का सेवन न करना और नियमित रूप से रक्त शर्करा की निगरानी करना।",
+    "language": "hi"
+  },
+  {
+    "id": 153,
+    "query": "Madhumeh se bachne ka tarika batao.",
+    "intent": "prevention",
+    "entity": "Diabetes",
+    "answer": "Swasth aahar, niyamit vyayam, atyadhik chini ka sevan na karna aur niyamit roop se rakt shakkar ki nigrani karna.",
+    "language": "hinglish"
+  },
+  {
+    "id": 10,
+    "query": "What are the treatments available for Diabetes?",
+    "intent": "treatment",
+    "entity": "Diabetes",
+    "answer": "Treatment includes insulin therapy, medications, healthy diet, and regular physical activity.",
+    "language": "en"
+  },
+  {
+    "id": 154,
+    "query": "How to treat Diabetes?",
+    "intent": "treatment",
+    "entity": "Diabetes",
+    "answer": "Treatment includes insulin therapy, medications, healthy diet, and regular physical activity.",
+    "language": "en"
+  },
+  {
+    "id": 11,
+    "query": "मधुमेह का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Diabetes",
+    "answer": "उपचार में इंसुलिन थेरेपी, दवाइयाँ, स्वस्थ आहार और नियमित शारीरिक गतिविधि शामिल हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 155,
+    "query": "Madhumeh ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Diabetes",
+    "answer": "Upchar mein insulin therapy, davaiyan, swasth aahar aur niyamit sharirik gatividhi shamil hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 13,
+    "query": "What are the symptoms of Hypertension?",
+    "intent": "symptoms",
+    "entity": "Hypertension",
+    "answer": "High blood pressure often has no symptoms, but severe cases may include headaches, shortness of breath, or nosebleeds.",
+    "language": "en"
+  },
+  {
+    "id": 156,
+    "query": "Signs of high BP?",
+    "intent": "symptoms",
+    "entity": "Hypertension",
+    "answer": "High blood pressure often has no symptoms, but severe cases may include headaches, shortness of breath, or nosebleeds.",
+    "language": "en"
+  },
+  {
+    "id": 14,
+    "query": "उच्च रक्तचाप के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Hypertension",
+    "answer": "उच्च रक्तचाप अक्सर बिना लक्षणों के होता है, लेकिन गंभीर मामलों में सिरदर्द, सांस लेने में कठिनाई या नाक से रक्तस्राव हो सकता है।",
+    "language": "hi"
+  },
+  {
+    "id": 157,
+    "query": "High BP ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Hypertension",
+    "answer": "Ucch raktchaap aksar bina lakshanon ke hota hai, lekin gambheer mamlo mein sir dard, saans lene mein kathinai ya naak se raktasraav ho sakta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 16,
+    "query": "What causes Hypertension?",
+    "intent": "causes",
+    "entity": "Hypertension",
+    "answer": "Causes include genetics, obesity, high salt intake, stress, and lack of physical activity.",
+    "language": "en"
+  },
+  {
+    "id": 158,
+    "query": "Why do people get high blood pressure?",
+    "intent": "causes",
+    "entity": "Hypertension",
+    "answer": "Causes include genetics, obesity, high salt intake, stress, and lack of physical activity.",
+    "language": "en"
+  },
+  {
+    "id": 17,
+    "query": "उच्च रक्तचाप के कारण क्या हैं?",
+    "intent": "causes",
+    "entity": "Hypertension",
+    "answer": "कारणों में आनुवंशिकी, मोटापा, अधिक नमक का सेवन, तनाव और शारीरिक गतिविधि की कमी शामिल हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 159,
+    "query": "High BP kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Hypertension",
+    "answer": "Kaaranon mein anuvanshiki, motapa, adhik namak ka sevan, tanav aur sharirik gatividhi ki kami shamil hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 19,
+    "query": "How can we prevent Hypertension?",
+    "intent": "prevention",
+    "entity": "Hypertension",
+    "answer": "Prevention involves a healthy diet low in sodium, regular exercise, limiting alcohol intake, and managing stress.",
+    "language": "en"
+  },
+  {
+    "id": 160,
+    "query": "What is the prevention for high BP?",
+    "intent": "prevention",
+    "entity": "Hypertension",
+    "answer": "Prevention involves a healthy diet low in sodium, regular exercise, limiting alcohol intake, and managing stress.",
+    "language": "en"
+  },
+  {
+    "id": 20,
+    "query": "उच्च रक्तचाप को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Hypertension",
+    "answer": "रोकथाम में सोडियम कम वाला स्वस्थ आहार, नियमित व्यायाम, शराब का सेवन सीमित करना और तनाव को नियंत्रित करना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 161,
+    "query": "High BP se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Hypertension",
+    "answer": "Roktham mein sodium kam wala swasth aahar, niyamit vyayam, sharab ka sevan seemit karna aur tanav ko niyantrit karna shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 22,
+    "query": "What are the treatments available for Hypertension?",
+    "intent": "treatment",
+    "entity": "Hypertension",
+    "answer": "Treatment involves lifestyle changes like diet and exercise, and prescribed medications such as diuretics or ACE inhibitors.",
+    "language": "en"
+  },
+  {
+    "id": 162,
+    "query": "How to treat high blood pressure?",
+    "intent": "treatment",
+    "entity": "Hypertension",
+    "answer": "Treatment involves lifestyle changes like diet and exercise, and prescribed medications such as diuretics or ACE inhibitors.",
+    "language": "en"
+  },
+  {
+    "id": 23,
+    "query": "उच्च रक्तचाप का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Hypertension",
+    "answer": "उपचार में आहार और व्यायाम जैसे जीवनशैली में बदलाव, और मूत्रवर्धक या एसीई अवरोधक जैसी निर्धारित दवाएं शामिल हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 163,
+    "query": "High BP ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Hypertension",
+    "answer": "Upchar mein aahar aur vyayam jaise jevanshaili mein badlav, aur mootravardhak ya ACE avrodhak jaise nirdharit davayen shamil hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 25,
+    "query": "What are the symptoms of Tuberculosis?",
+    "intent": "symptoms",
+    "entity": "Tuberculosis",
+    "answer": "Symptoms of Tuberculosis include a persistent cough, chest pain, fever, weight loss, and night sweats.",
+    "language": "en"
+  },
+  {
+    "id": 164,
+    "query": "Signs of TB?",
+    "intent": "symptoms",
+    "entity": "Tuberculosis",
+    "answer": "Symptoms of Tuberculosis include a persistent cough, chest pain, fever, weight loss, and night sweats.",
+    "language": "en"
+  },
+  {
+    "id": 26,
+    "query": "तपेदिक के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Tuberculosis",
+    "answer": "तपेदिक के लक्षणों में लगातार खांसी, सीने में दर्द, बुखार, वजन घटना और रात में पसीना आना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 165,
+    "query": "Tapedik ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Tuberculosis",
+    "answer": "Tapedik ke lakshan mein lagatar khansi, seene mein dard, bukhar, vajan ghatna aur raat mein paseena aana shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 28,
+    "query": "What causes Tuberculosis?",
+    "intent": "causes",
+    "entity": "Tuberculosis",
+    "answer": "Tuberculosis is caused by the bacterium Mycobacterium tuberculosis, which is spread through the air from person to person.",
+    "language": "en"
+  },
+  {
+    "id": 166,
+    "query": "Why do people get TB?",
+    "intent": "causes",
+    "entity": "Tuberculosis",
+    "answer": "Tuberculosis is caused by the bacterium Mycobacterium tuberculosis, which is spread through the air from person to person.",
+    "language": "en"
+  },
+  {
+    "id": 29,
+    "query": "तपेदिक का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Tuberculosis",
+    "answer": "तपेदिक माइकोबैक्टीरियम ट्यूबरकुलोसिस नामक जीवाणु के कारण होता है, जो हवा के माध्यम से एक व्यक्ति से दूसरे व्यक्ति में फैलता है।",
+    "language": "hi"
+  },
+  {
+    "id": 167,
+    "query": "Tapedik kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Tuberculosis",
+    "answer": "Tapedik Mycobacterium tuberculosis namak jivanu ke karan hota hai, jo hava ke madhyam se ek vyakti se dusre vyakti mein phailta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 31,
+    "query": "How can we prevent Tuberculosis?",
+    "intent": "prevention",
+    "entity": "Tuberculosis",
+    "answer": "Prevention includes vaccination with the BCG vaccine, avoiding close contact with infected individuals, and maintaining good ventilation.",
+    "language": "en"
+  },
+  {
+    "id": 168,
+    "query": "How to prevent TB?",
+    "intent": "prevention",
+    "entity": "Tuberculosis",
+    "answer": "Prevention includes vaccination with the BCG vaccine, avoiding close contact with infected individuals, and maintaining good ventilation.",
+    "language": "en"
+  },
+  {
+    "id": 32,
+    "query": "तपेदिक को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Tuberculosis",
+    "answer": "रोकथाम में बीसीजी टीके से टीकाकरण, संक्रमित व्यक्तियों के निकट संपर्क से बचना और अच्छा वेंटिलेशन बनाए रखना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 169,
+    "query": "Tapedik se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Tuberculosis",
+    "answer": "Roktham mein BCG teeke se tikakaran, sankramit vyaktiyon ke nikat sampark se bachna aur accha ventilation banaye rakhna shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 34,
+    "query": "What are the treatments available for Tuberculosis?",
+    "intent": "treatment",
+    "entity": "Tuberculosis",
+    "answer": "Treatment involves a long course of antibiotics, typically for 6 to 9 months, under medical supervision.",
+    "language": "en"
+  },
+  {
+    "id": 170,
+    "query": "How to treat TB?",
+    "intent": "treatment",
+    "entity": "Tuberculosis",
+    "answer": "Treatment involves a long course of antibiotics, typically for 6 to 9 months, under medical supervision.",
+    "language": "en"
+  },
+  {
+    "id": 35,
+    "query": "तपेदिक का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Tuberculosis",
+    "answer": "उपचार में चिकित्सा पर्यवेक्षण के तहत, आमतौर पर 6 से 9 महीने तक, एंटीबायोटिक दवाओं का एक लंबा कोर्स शामिल होता है।",
+    "language": "hi"
+  },
+  {
+    "id": 171,
+    "query": "Tapedik ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Tuberculosis",
+    "answer": "Upchar mein chikitsa paryavekshan ke tahat, aam taur par 6 se 9 mahine tak, antibiotic davayon ka ek lamba course shamil hota hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 37,
+    "query": "What are the symptoms of Malaria?",
+    "intent": "symptoms",
+    "entity": "Malaria",
+    "answer": "Symptoms of Malaria include fever, chills, headache, nausea, and flu-like illness. They typically appear 10 to 15 days after the bite.",
+    "language": "en"
+  },
+  {
+    "id": 172,
+    "query": "Signs of Malaria?",
+    "intent": "symptoms",
+    "entity": "Malaria",
+    "answer": "Symptoms of Malaria include fever, chills, headache, nausea, and flu-like illness. They typically appear 10 to 15 days after the bite.",
+    "language": "en"
+  },
+  {
+    "id": 38,
+    "query": "मलेरिया के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Malaria",
+    "answer": "मलेरिया के लक्षणों में बुखार, ठंड लगना, सिरदर्द, मतली और फ्लू जैसी बीमारी शामिल है। वे आमतौर पर मच्छर के काटने के 10 से 15 दिन बाद दिखाई देते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 173,
+    "query": "Malaria ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Malaria",
+    "answer": "Malaria ke lakshan mein bukhar, thand lagna, sir dard, matli aur flu jaisi beemari shamil hai. Ve aam taur par machhar ke kaatne ke 10 se 15 din baad dikhai dete hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 40,
+    "query": "What causes Malaria?",
+    "intent": "causes",
+    "entity": "Malaria",
+    "answer": "Malaria is caused by a parasite, Plasmodium, which is transmitted through the bite of an infected female Anopheles mosquito.",
+    "language": "en"
+  },
+  {
+    "id": 174,
+    "query": "Why do people get Malaria?",
+    "intent": "causes",
+    "entity": "Malaria",
+    "answer": "Malaria is caused by a parasite, Plasmodium, which is transmitted through the bite of an infected female Anopheles mosquito.",
+    "language": "en"
+  },
+  {
+    "id": 41,
+    "query": "मलेरिया का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Malaria",
+    "answer": "मलेरिया प्लास्मोडियम नामक परजीवी के कारण होता है, जो एक संक्रमित मादा एनोफिलीज मच्छर के काटने से फैलता है।",
+    "language": "hi"
+  },
+  {
+    "id": 175,
+    "query": "Malaria kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Malaria",
+    "answer": "Malaria Plasmodium namak parjeevi ke karan hota hai, jo ek sankramit mada Anopheles machhar ke kaatne se phailta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 43,
+    "query": "How can we prevent Malaria?",
+    "intent": "prevention",
+    "entity": "Malaria",
+    "answer": "Prevention includes using insecticide-treated nets, indoor residual spraying, and taking antimalaria medication.",
+    "language": "en"
+  },
+  {
+    "id": 176,
+    "query": "How to prevent Malaria?",
+    "intent": "prevention",
+    "entity": "Malaria",
+    "answer": "Prevention includes using insecticide-treated nets, indoor residual spraying, and taking antimalaria medication.",
+    "language": "en"
+  },
+  {
+    "id": 44,
+    "query": "मलेरिया को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Malaria",
+    "answer": "रोकथाम में कीटनाशक-उपचारित जालों का उपयोग, घर के अंदर कीटनाशक का छिड़काव और मलेरिया-रोधी दवा लेना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 177,
+    "query": "Malaria se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Malaria",
+    "answer": "Roktham mein kitnashak-upcharit jaalon ka upyog, ghar ke andar kitnashak ka chhidkav aur malaria-rodhi dava lena shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 46,
+    "query": "What are the treatments available for Malaria?",
+    "intent": "treatment",
+    "entity": "Malaria",
+    "answer": "Treatment involves antimalarial drugs, with the specific type depending on the parasite species and disease severity.",
+    "language": "en"
+  },
+  {
+    "id": 178,
+    "query": "How to treat Malaria?",
+    "intent": "treatment",
+    "entity": "Malaria",
+    "answer": "Treatment involves antimalarial drugs, with the specific type depending on the parasite species and disease severity.",
+    "language": "en"
+  },
+  {
+    "id": 47,
+    "query": "मलेरिया का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Malaria",
+    "answer": "उपचार में मलेरिया-रोधी दवाएं शामिल हैं, जिनका विशिष्ट प्रकार परजीवी प्रजाति और रोग की गंभीरता पर निर्भर करता है।",
+    "language": "hi"
+  },
+  {
+    "id": 179,
+    "query": "Malaria ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Malaria",
+    "answer": "Upchar mein malaria-rodhi davayen shamil hain, jinka vishisht prakar parjeevi prajati aur rog ki gambheerta par nirbhar karta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 49,
+    "query": "What are the symptoms of Dengue?",
+    "intent": "symptoms",
+    "entity": "Dengue",
+    "answer": "Symptoms of Dengue include high fever, severe headache, muscle and joint pains, rash, and pain behind the eyes.",
+    "language": "en"
+  },
+  {
+    "id": 180,
+    "query": "Dengue ke signs kya hain?",
+    "intent": "symptoms",
+    "entity": "Dengue",
+    "answer": "Symptoms of Dengue include high fever, severe headache, muscle and joint pains, rash, and pain behind the eyes.",
+    "language": "en"
+  },
+  {
+    "id": 50,
+    "query": "डेंगू के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Dengue",
+    "answer": "डेंगू के लक्षणों में तेज बुखार, गंभीर सिरदर्द, मांसपेशियों और जोड़ों में दर्द, दाने और आंखों के पीछे दर्द शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 181,
+    "query": "Dengue ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Dengue",
+    "answer": "Dengue ke lakshan mein tej bukhar, gambheer sir dard, manspeshiyon aur jodon mein dard, dane aur aankhon ke piche dard shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 52,
+    "query": "What causes Dengue?",
+    "intent": "causes",
+    "entity": "Dengue",
+    "answer": "Dengue is caused by the dengue virus, which is transmitted by the bite of an infected Aedes mosquito.",
+    "language": "en"
+  },
+  {
+    "id": 182,
+    "query": "Why do people get Dengue?",
+    "intent": "causes",
+    "entity": "Dengue",
+    "answer": "Dengue is caused by the dengue virus, which is transmitted by the bite of an infected Aedes mosquito.",
+    "language": "en"
+  },
+  {
+    "id": 53,
+    "query": "डेंगू का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Dengue",
+    "answer": "डेंगू डेंगू वायरस के कारण होता है, जो एक संक्रमित एडीज मच्छर के काटने से फैलता है।",
+    "language": "hi"
+  },
+  {
+    "id": 183,
+    "query": "Dengue kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Dengue",
+    "answer": "Dengue dengue virus ke karan hota hai, jo ek sankramit Aedes machhar ke kaatne se phailta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 55,
+    "query": "How can we prevent Dengue?",
+    "intent": "prevention",
+    "entity": "Dengue",
+    "answer": "Prevention includes eliminating standing water to prevent mosquito breeding, using repellents, and wearing long-sleeved clothing.",
+    "language": "en"
+  },
+  {
+    "id": 184,
+    "query": "How to prevent Dengue?",
+    "intent": "prevention",
+    "entity": "Dengue",
+    "answer": "Prevention includes eliminating standing water to prevent mosquito breeding, using repellents, and wearing long-sleeved clothing.",
+    "language": "en"
+  },
+  {
+    "id": 56,
+    "query": "डेंगू को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Dengue",
+    "answer": "रोकथाम में मच्छरों के प्रजनन को रोकने के लिए स्थिर पानी को खत्म करना, विकर्षक का उपयोग करना और लंबी आस्तीन वाले कपड़े पहनना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 185,
+    "query": "Dengue se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Dengue",
+    "answer": "Roktham mein machhron ke prajanan ko rokne ke liye sthir pani ko khatam karna, vikarshak ka upyog karna aur lambi aastin wale kapde pehanna shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 58,
+    "query": "What are the treatments available for Dengue?",
+    "intent": "treatment",
+    "entity": "Dengue",
+    "answer": "There is no specific treatment for Dengue. Care is supportive and includes pain relievers and fluid replacement.",
+    "language": "en"
+  },
+  {
+    "id": 186,
+    "query": "How to treat Dengue?",
+    "intent": "treatment",
+    "entity": "Dengue",
+    "answer": "There is no specific treatment for Dengue. Care is supportive and includes pain relievers and fluid replacement.",
+    "language": "en"
+  },
+  {
+    "id": 59,
+    "query": "डेंगू का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Dengue",
+    "answer": "डेंगू का कोई विशिष्ट उपचार नहीं है। देखभाल सहायक है और इसमें दर्द निवारक और तरल पदार्थ का प्रतिस्थापन शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 187,
+    "query": "Dengue ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Dengue",
+    "answer": "Dengue ka koi vishisht upchar nahin hai. Dekhbhal sahayak hai aur ismein dard nivarak aur taral padarth ka pratisthapan shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 61,
+    "query": "What are the symptoms of Influenza?",
+    "intent": "symptoms",
+    "entity": "Influenza",
+    "answer": "Symptoms of Influenza include fever, cough, sore throat, muscle aches, and fatigue. It is often confused with the common cold.",
+    "language": "en"
+  },
+  {
+    "id": 188,
+    "query": "Signs of Influenza?",
+    "intent": "symptoms",
+    "entity": "Influenza",
+    "answer": "Symptoms of Influenza include fever, cough, sore throat, muscle aches, and fatigue. It is often confused with the common cold.",
+    "language": "en"
+  },
+  {
+    "id": 62,
+    "query": "इन्फ्लूएंजा के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Influenza",
+    "answer": "इन्फ्लूएंजा के लक्षणों में बुखार, खांसी, गले में खराश, मांसपेशियों में दर्द और थकान शामिल है। इसे अक्सर सामान्य सर्दी के साथ भ्रमित किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": 189,
+    "query": "Influenza ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Influenza",
+    "answer": "Influenza ke lakshan mein bukhar, khansi, gale mein kharash, manspeshiyon mein dard aur thakan shamil hai. Ise aksar samanya sardi ke sath bhramit kiya jata hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 64,
+    "query": "What causes Influenza?",
+    "intent": "causes",
+    "entity": "Influenza",
+    "answer": "Influenza is caused by a virus that attacks the respiratory system and is spread through droplets from an infected person's cough or sneeze.",
+    "language": "en"
+  },
+  {
+    "id": 190,
+    "query": "Why do people get Influenza?",
+    "intent": "causes",
+    "entity": "Influenza",
+    "answer": "Influenza is caused by a virus that attacks the respiratory system and is spread through droplets from an infected person's cough or sneeze.",
+    "language": "en"
+  },
+  {
+    "id": 65,
+    "query": "इन्फ्लूएंजा का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Influenza",
+    "answer": "इन्फ्लूएंजा एक वायरस के कारण होता है जो श्वसन प्रणाली पर हमला करता है और संक्रमित व्यक्ति की खांसी या छींक से निकलने वाली बूंदों से फैलता है।",
+    "language": "hi"
+  },
+  {
+    "id": 191,
+    "query": "Influenza kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Influenza",
+    "answer": "Influenza ek virus ke karan hota hai jo shvasan pranali par hamla karta hai aur sankramit vyakti ki khansi ya chheenk se nikalne wali boondon se phailta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 67,
+    "query": "How can we prevent Influenza?",
+    "intent": "prevention",
+    "entity": "Influenza",
+    "answer": "The most effective prevention is getting an annual flu vaccine. Other measures include frequent hand washing and avoiding close contact with sick people.",
+    "language": "en"
+  },
+  {
+    "id": 192,
+    "query": "How to prevent flu?",
+    "intent": "prevention",
+    "entity": "Influenza",
+    "answer": "The most effective prevention is getting an annual flu vaccine. Other measures include frequent hand washing and avoiding close contact with sick people.",
+    "language": "en"
+  },
+  {
+    "id": 68,
+    "query": "इन्फ्लूएंजा को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Influenza",
+    "answer": "सबसे प्रभावी रोकथाम वार्षिक फ्लू का टीका लगवाना है। अन्य उपायों में बार-बार हाथ धोना और बीमार लोगों के निकट संपर्क से बचना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 193,
+    "query": "Flu se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Influenza",
+    "answer": "Sabse prabhavi roktham varshik flu ka teeka lagvana hai. Anya upayo mein bar-bar hath dhona aur bimar logon ke nikat sampark se bachna shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 70,
+    "query": "What are the treatments available for Influenza?",
+    "intent": "treatment",
+    "entity": "Influenza",
+    "answer": "Treatment includes rest, hydration, and over-the-counter medications for symptom relief. In some cases, antiviral drugs may be prescribed.",
+    "language": "en"
+  },
+  {
+    "id": 194,
+    "query": "How to treat Influenza?",
+    "intent": "treatment",
+    "entity": "Influenza",
+    "answer": "Treatment includes rest, hydration, and over-the-counter medications for symptom relief. In some cases, antiviral drugs may be prescribed.",
+    "language": "en"
+  },
+  {
+    "id": 71,
+    "query": "इन्फ्लूएंजा का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Influenza",
+    "answer": "उपचार में आराम, हाइड्रेशन और लक्षणों से राहत के लिए ओवर-द-काउंटर दवाएं शामिल हैं। कुछ मामलों में, एंटीवायरल दवाएं निर्धारित की जा सकती हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 195,
+    "query": "Flu ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Influenza",
+    "answer": "Upchar mein aaram, hydration, aur lakshano se rahat ke liye over-the-counter davayen shamil hain. Kuch mamlo mein, antiviral davayen nirdharit ki ja sakti hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 73,
+    "query": "What are the symptoms of Pneumonia?",
+    "intent": "symptoms",
+    "entity": "Pneumonia",
+    "answer": "Symptoms of Pneumonia include a cough with phlegm, fever, chills, shortness of breath, and chest pain when breathing.",
+    "language": "en"
+  },
+  {
+    "id": 196,
+    "query": "Signs of Pneumonia?",
+    "intent": "symptoms",
+    "entity": "Pneumonia",
+    "answer": "Symptoms of Pneumonia include a cough with phlegm, fever, chills, shortness of breath, and chest pain when breathing.",
+    "language": "en"
+  },
+  {
+    "id": 74,
+    "query": "निमोनिया के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Pneumonia",
+    "answer": "निमोनिया के लक्षणों में कफ के साथ खांसी, बुखार, ठंड लगना, सांस लेने में तकलीफ और सांस लेते समय सीने में दर्द शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 197,
+    "query": "Nimonia ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Pneumonia",
+    "answer": "Nimonia ke lakshan mein kaph ke sath khansi, bukhar, thand lagna, saans lene mein takleef aur saans lete samay seene mein dard shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 76,
+    "query": "What causes Pneumonia?",
+    "intent": "causes",
+    "entity": "Pneumonia",
+    "answer": "Pneumonia is an infection caused by viruses, bacteria, or fungi that inflames the air sacs in one or both lungs.",
+    "language": "en"
+  },
+  {
+    "id": 198,
+    "query": "Why do people get Pneumonia?",
+    "intent": "causes",
+    "entity": "Pneumonia",
+    "answer": "Pneumonia is an infection caused by viruses, bacteria, or fungi that inflames the air sacs in one or both lungs.",
+    "language": "en"
+  },
+  {
+    "id": 77,
+    "query": "निमोनिया का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Pneumonia",
+    "answer": "निमोनिया एक संक्रमण है जो वायरस, बैक्टीरिया या कवक के कारण होता है जो एक या दोनों फेफड़ों में वायुकोषों को सूजा देता है।",
+    "language": "hi"
+  },
+  {
+    "id": 199,
+    "query": "Nimonia kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Pneumonia",
+    "answer": "Nimonia ek sankraman hai jo virus, bacteria ya kavak ke karan hota hai jo ek ya donon phepdon mein vayukoshon ko sooja deta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 79,
+    "query": "How can we prevent Pneumonia?",
+    "intent": "prevention",
+    "entity": "Pneumonia",
+    "answer": "Prevention includes vaccination, practicing good hygiene, not smoking, and treating underlying health conditions.",
+    "language": "en"
+  },
+  {
+    "id": 200,
+    "query": "How to prevent Pneumonia?",
+    "intent": "prevention",
+    "entity": "Pneumonia",
+    "answer": "Prevention includes vaccination, practicing good hygiene, not smoking, and treating underlying health conditions.",
+    "language": "en"
+  },
+  {
+    "id": 80,
+    "query": "निमोनिया को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Pneumonia",
+    "answer": "रोकथाम में टीकाकरण, अच्छी स्वच्छता का अभ्यास करना, धूम्रपान न करना और अंतर्निहित स्वास्थ्य स्थितियों का इलाज करना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 201,
+    "query": "Nimonia se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Pneumonia",
+    "answer": "Roktham mein tikakaran, acchi swachhta ka abhyas karna, dhumrapan na karna aur antarnihit swasthya sthitiyon ka ilaj karna shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 82,
+    "query": "What are the treatments available for Pneumonia?",
+    "intent": "treatment",
+    "entity": "Pneumonia",
+    "answer": "Treatment for Pneumonia depends on its cause. Bacterial pneumonia is treated with antibiotics, while viral pneumonia is treated with rest and fluids.",
+    "language": "en"
+  },
+  {
+    "id": 202,
+    "query": "How to treat Pneumonia?",
+    "intent": "treatment",
+    "entity": "Pneumonia",
+    "answer": "Treatment for Pneumonia depends on its cause. Bacterial pneumonia is treated with antibiotics, while viral pneumonia is treated with rest and fluids.",
+    "language": "en"
+  },
+  {
+    "id": 83,
+    "query": "निमोनिया का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Pneumonia",
+    "answer": "निमोनिया का उपचार इसके कारण पर निर्भर करता है। बैक्टीरियल निमोनिया का इलाज एंटीबायोटिक दवाओं से किया जाता है, जबकि वायरल निमोनिया का इलाज आराम और तरल पदार्थों से किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": 203,
+    "query": "Nimonia ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Pneumonia",
+    "answer": "Nimonia ka upchar iske karan par nirbhar karta hai. Bacterial nimonia ka ilaj antibiotic davayon se kiya jata hai, jabki viral nimonia ka ilaj aaram aur taral padarthon se kiya jata hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 85,
+    "query": "What are the symptoms of Asthma?",
+    "intent": "symptoms",
+    "entity": "Asthma",
+    "answer": "Symptoms of Asthma include shortness of breath, wheezing, chest tightness, and coughing, especially at night or early in the morning.",
+    "language": "en"
+  },
+  {
+    "id": 204,
+    "query": "Signs of Asthma?",
+    "intent": "symptoms",
+    "entity": "Asthma",
+    "answer": "Symptoms of Asthma include shortness of breath, wheezing, chest tightness, and coughing, especially at night or early in the morning.",
+    "language": "en"
+  },
+  {
+    "id": 86,
+    "query": "अस्थमा के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Asthma",
+    "answer": "अस्थमा के लक्षणों में सांस की तकलीफ, घरघराहट, सीने में जकड़न और खांसी शामिल है, खासकर रात में या सुबह जल्दी।",
+    "language": "hi"
+  },
+  {
+    "id": 205,
+    "query": "Asthma ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Asthma",
+    "answer": "Asthma ke lakshan mein saans ki takleef, ghargharahat, seene mein jakdan aur khansi shamil hai, khas kar raat mein ya subah jaldi.",
+    "language": "hinglish"
+  },
+  {
+    "id": 88,
+    "query": "What causes Asthma?",
+    "intent": "causes",
+    "entity": "Asthma",
+    "answer": "Asthma is caused by a combination of genetic and environmental factors that lead to inflammation and narrowing of the airways.",
+    "language": "en"
+  },
+  {
+    "id": 206,
+    "query": "Why do people get Asthma?",
+    "intent": "causes",
+    "entity": "Asthma",
+    "answer": "Asthma is caused by a combination of genetic and environmental factors that lead to inflammation and narrowing of the airways.",
+    "language": "en"
+  },
+  {
+    "id": 89,
+    "query": "अस्थमा का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Asthma",
+    "answer": "अस्थमा आनुवंशिक और पर्यावरणीय कारकों के संयोजन के कारण होता है जिससे वायुमार्ग में सूजन और संकीर्णता होती है।",
+    "language": "hi"
+  },
+  {
+    "id": 207,
+    "query": "Asthma kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Asthma",
+    "answer": "Asthma anuvanshik aur paryavaraniy karakon ke sanyojan ke karan hota hai jisse vayumarg mein sujan aur sankirnata hoti hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 91,
+    "query": "How can we prevent Asthma?",
+    "intent": "prevention",
+    "entity": "Asthma",
+    "answer": "Asthma can be prevented by avoiding triggers such as allergens, smoke, and air pollution, and using prescribed medications regularly.",
+    "language": "en"
+  },
+  {
+    "id": 208,
+    "query": "How to prevent asthma?",
+    "intent": "prevention",
+    "entity": "Asthma",
+    "answer": "Asthma can be prevented by avoiding triggers such as allergens, smoke, and air pollution, and using prescribed medications regularly.",
+    "language": "en"
+  },
+  {
+    "id": 92,
+    "query": "अस्थमा को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Asthma",
+    "answer": "अस्थमा को एलर्जी, धुआं और वायु प्रदूषण जैसे ट्रिगर्स से बचकर और निर्धारित दवाओं का नियमित रूप से उपयोग करके रोका जा सकता है।",
+    "language": "hi"
+  },
+  {
+    "id": 209,
+    "query": "Asthma se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Asthma",
+    "answer": "Asthma ko allergy, dhuaan aur vayu pradushan jaise triggers se bachkar aur nirdharit davayon ka niyamit roop se upyog karke roka ja sakta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 94,
+    "query": "What are the treatments available for Asthma?",
+    "intent": "treatment",
+    "entity": "Asthma",
+    "answer": "Treatment involves using inhalers to open airways, controlling inflammation with corticosteroids, and managing triggers.",
+    "language": "en"
+  },
+  {
+    "id": 210,
+    "query": "How to treat Asthma?",
+    "intent": "treatment",
+    "entity": "Asthma",
+    "answer": "Treatment involves using inhalers to open airways, controlling inflammation with corticosteroids, and managing triggers.",
+    "language": "en"
+  },
+  {
+    "id": 95,
+    "query": "अस्थमा का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Asthma",
+    "answer": "उपचार में वायुमार्ग को खोलने के लिए इनहेलर्स का उपयोग करना, कॉर्टिकोस्टेरॉइड्स के साथ सूजन को नियंत्रित करना और ट्रिगर्स को प्रबंधित करना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 211,
+    "query": "Asthma ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Asthma",
+    "answer": "Upchar mein vayumarg ko kholne ke liye inhalers ka upyog karna, corticosteroids ke sath sujan ko niyantrit karna aur triggers ko prabandhit karna shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 97,
+    "query": "What are the symptoms of Measles?",
+    "intent": "symptoms",
+    "entity": "Measles",
+    "answer": "Symptoms of Measles include a high fever, cough, runny nose, red eyes, and a rash of small red spots starting on the face.",
+    "language": "en"
+  },
+  {
+    "id": 212,
+    "query": "Signs of Measles?",
+    "intent": "symptoms",
+    "entity": "Measles",
+    "answer": "Symptoms of Measles include a high fever, cough, runny nose, red eyes, and a rash of small red spots starting on the face.",
+    "language": "en"
+  },
+  {
+    "id": 98,
+    "query": "खसरा के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Measles",
+    "answer": "खसरा के लक्षणों में तेज बुखार, खांसी, बहती नाक, लाल आंखें और चेहरे पर शुरू होने वाले छोटे लाल धब्बों का दाना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 213,
+    "query": "Khasra ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Measles",
+    "answer": "Khasra ke lakshan mein tej bukhar, behti naak, lal aankhen, aur chehre par shuru hone wale chhote lal dhabbon ka dana shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 100,
+    "query": "What causes Measles?",
+    "intent": "causes",
+    "entity": "Measles",
+    "answer": "Measles is a highly contagious viral infection caused by the measles virus, which spreads through the air when an infected person coughs or sneezes.",
+    "language": "en"
+  },
+  {
+    "id": 214,
+    "query": "Why do people get Measles?",
+    "intent": "causes",
+    "entity": "Measles",
+    "answer": "Measles is a highly contagious viral infection caused by the measles virus, which spreads through the air when an infected person coughs or sneezes.",
+    "language": "en"
+  },
+  {
+    "id": 101,
+    "query": "खसरा का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Measles",
+    "answer": "खसरा एक अत्यधिक संक्रामक वायरल संक्रमण है जो खसरा वायरस के कारण होता है, जो संक्रमित व्यक्ति के खांसने या छींकने पर हवा के माध्यम से फैलता है।",
+    "language": "hi"
+  },
+  {
+    "id": 215,
+    "query": "Khasra kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Measles",
+    "answer": "Khasra ek atyadhik sankramak viral sankraman hai jo khasra virus ke karan hota hai, jo sankramit vyakti ke khansne ya chheenkne par hava ke madhyam se phailta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 103,
+    "query": "How can we prevent Measles?",
+    "intent": "prevention",
+    "entity": "Measles",
+    "answer": "The most effective way to prevent Measles is through vaccination with the MMR (measles, mumps, and rubella) vaccine.",
+    "language": "en"
+  },
+  {
+    "id": 216,
+    "query": "How to prevent Measles?",
+    "intent": "prevention",
+    "entity": "Measles",
+    "answer": "The most effective way to prevent Measles is through vaccination with the MMR (measles, mumps, and rubella) vaccine.",
+    "language": "en"
+  },
+  {
+    "id": 104,
+    "query": "खसरा को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Measles",
+    "answer": "खसरा को रोकने का सबसे प्रभावी तरीका एमएमआर (खसरा, गलसुआ और रूबेला) वैक्सीन के साथ टीकाकरण है।",
+    "language": "hi"
+  },
+  {
+    "id": 217,
+    "query": "Khasra se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Measles",
+    "answer": "Khasra ko rokne ka sabse prabhavi tarika MMR (khasra, galsua aur rubella) vaccine ke sath tikakaran hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 106,
+    "query": "What are the treatments available for Measles?",
+    "intent": "treatment",
+    "entity": "Measles",
+    "answer": "There is no specific treatment for Measles. Care is supportive, focusing on rest, hydration, and over-the-counter fever reducers.",
+    "language": "en"
+  },
+  {
+    "id": 218,
+    "query": "How to treat Measles?",
+    "intent": "treatment",
+    "entity": "Measles",
+    "answer": "There is no specific treatment for Measles. Care is supportive, focusing on rest, hydration, and over-the-counter fever reducers.",
+    "language": "en"
+  },
+  {
+    "id": 107,
+    "query": "खसरा का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Measles",
+    "answer": "खसरा का कोई विशिष्ट उपचार नहीं है। देखभाल सहायक है, जो आराम, जलयोजन और ओवर-द-काउंटर बुखार कम करने वाली दवाओं पर केंद्रित है।",
+    "language": "hi"
+  },
+  {
+    "id": 219,
+    "query": "Khasra ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Measles",
+    "answer": "Khasra ka koi vishisht upchar nahin hai. Dekhbhal sahayak hai, jo aaram, jalayojan aur over-the-counter bukhar kam karne wali davayon par kendrit hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 109,
+    "query": "What are the symptoms of Cholera?",
+    "intent": "symptoms",
+    "entity": "Cholera",
+    "answer": "Symptoms of Cholera include severe watery diarrhea, vomiting, rapid heart rate, and dehydration, which can lead to shock.",
+    "language": "en"
+  },
+  {
+    "id": 220,
+    "query": "Signs of Cholera?",
+    "intent": "symptoms",
+    "entity": "Cholera",
+    "answer": "Symptoms of Cholera include severe watery diarrhea, vomiting, rapid heart rate, and dehydration, which can lead to shock.",
+    "language": "en"
+  },
+  {
+    "id": 110,
+    "query": "हैजा के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Cholera",
+    "answer": "हैजा के लक्षणों में गंभीर पानी जैसे दस्त, उल्टी, तेज़ दिल की धड़कन और निर्जलीकरण शामिल हैं, जिससे झटका लग सकता है।",
+    "language": "hi"
+  },
+  {
+    "id": 221,
+    "query": "Haija ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Cholera",
+    "answer": "Haija ke lakshan mein gambheer pani jaise dast, ulti, tez dil ki dhadkan aur nirjalikaran shamil hain, jisse jhatka lag sakta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 112,
+    "query": "What causes Cholera?",
+    "intent": "causes",
+    "entity": "Cholera",
+    "answer": "Cholera is an acute diarrheal disease caused by the bacterium Vibrio cholerae, often transmitted through contaminated water or food.",
+    "language": "en"
+  },
+  {
+    "id": 222,
+    "query": "Why do people get Cholera?",
+    "intent": "causes",
+    "entity": "Cholera",
+    "answer": "Cholera is an acute diarrheal disease caused by the bacterium Vibrio cholerae, often transmitted through contaminated water or food.",
+    "language": "en"
+  },
+  {
+    "id": 113,
+    "query": "हैजा का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Cholera",
+    "answer": "हैजा एक तीव्र दस्त रोग है जो विब्रियो कोलेरी नामक जीवाणु के कारण होता है, जो अक्सर दूषित पानी या भोजन के माध्यम से फैलता है।",
+    "language": "hi"
+  },
+  {
+    "id": 223,
+    "query": "Haija kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Cholera",
+    "answer": "Haija ek teevra dast rog hai jo Vibrio cholerae namak jivanu ke karan hota hai, jo aksar dooshit pani ya bhojan ke madhyam se phailta hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 115,
+    "query": "How can we prevent Cholera?",
+    "intent": "prevention",
+    "entity": "Cholera",
+    "answer": "Prevention involves ensuring access to safe water and sanitation, proper food hygiene, and oral cholera vaccines in high-risk areas.",
+    "language": "en"
+  },
+  {
+    "id": 224,
+    "query": "How to prevent Cholera?",
+    "intent": "prevention",
+    "entity": "Cholera",
+    "answer": "Prevention involves ensuring access to safe water and sanitation, proper food hygiene, and oral cholera vaccines in high-risk areas.",
+    "language": "en"
+  },
+  {
+    "id": 116,
+    "query": "हैजा को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Cholera",
+    "answer": "रोकथाम में सुरक्षित पानी और स्वच्छता तक पहुंच सुनिश्चित करना, उचित खाद्य स्वच्छता और उच्च जोखिम वाले क्षेत्रों में मौखिक हैजा के टीके शामिल हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 225,
+    "query": "Haija se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Cholera",
+    "answer": "Roktham mein surakshit pani aur swachhta tak pahunch sunishchit karna, uchit khadya swachhta aur ucch jokhim wale kshetron mein maukhik haija ke teeke shamil hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 118,
+    "query": "What are the treatments available for Cholera?",
+    "intent": "treatment",
+    "entity": "Cholera",
+    "answer": "Treatment involves rehydration therapy, either orally with a solution or intravenously, to replace lost fluids and electrolytes.",
+    "language": "en"
+  },
+  {
+    "id": 226,
+    "query": "How to treat Cholera?",
+    "intent": "treatment",
+    "entity": "Cholera",
+    "answer": "Treatment involves rehydration therapy, either orally with a solution or intravenously, to replace lost fluids and electrolytes.",
+    "language": "en"
+  },
+  {
+    "id": 119,
+    "query": "हैजा का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Cholera",
+    "answer": "उपचार में खोए हुए तरल पदार्थ और इलेक्ट्रोलाइट्स को बदलने के लिए मौखिक रूप से या अंतःशिरा रूप से पुनर्जलीकरण थेरेपी शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 227,
+    "query": "Haija ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Cholera",
+    "answer": "Upchar mein khoe hue taral padarth aur electrolytes ko badalne ke liye maukhik roop se ya antahshira roop se punarjalikaran therapy shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 121,
+    "query": "What are the symptoms of Cardiovascular disease?",
+    "intent": "symptoms",
+    "entity": "Cardiovascular disease",
+    "answer": "Symptoms of Cardiovascular disease can include chest pain (angina), shortness of breath, pain in the arms or legs, and fatigue.",
+    "language": "en"
+  },
+  {
+    "id": 228,
+    "query": "Signs of heart disease?",
+    "intent": "symptoms",
+    "entity": "Cardiovascular disease",
+    "answer": "Symptoms of Cardiovascular disease can include chest pain (angina), shortness of breath, pain in the arms or legs, and fatigue.",
+    "language": "en"
+  },
+  {
+    "id": 122,
+    "query": "हृदय रोग के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Cardiovascular disease",
+    "answer": "हृदय रोग के लक्षणों में सीने में दर्द (एनजाइना), सांस लेने में तकलीफ, बाहों या पैरों में दर्द और थकान शामिल हो सकते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 229,
+    "query": "Hriday rog ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Cardiovascular disease",
+    "answer": "Hriday rog ke lakshan mein seene mein dard (angina), saans lene mein takleef, bahon ya pairo mein dard aur thakan shamil ho sakte hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 124,
+    "query": "What causes Cardiovascular disease?",
+    "intent": "causes",
+    "entity": "Cardiovascular disease",
+    "answer": "Causes include a sedentary lifestyle, unhealthy diet, smoking, high blood pressure, and high cholesterol. Genetics can also play a role.",
+    "language": "en"
+  },
+  {
+    "id": 230,
+    "query": "Why do people get heart disease?",
+    "intent": "causes",
+    "entity": "Cardiovascular disease",
+    "answer": "Causes include a sedentary lifestyle, unhealthy diet, smoking, high blood pressure, and high cholesterol. Genetics can also play a role.",
+    "language": "en"
+  },
+  {
+    "id": 125,
+    "query": "हृदय रोग का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Cardiovascular disease",
+    "answer": "इसके कारणों में गतिहीन जीवनशैली, अस्वास्थ्यकर आहार, धूम्रपान, उच्च रक्तचाप और उच्च कोलेस्ट्रॉल शामिल हैं। आनुवंशिकी भी एक भूमिका निभा सकती है।",
+    "language": "hi"
+  },
+  {
+    "id": 231,
+    "query": "Heart disease kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Cardiovascular disease",
+    "answer": "Iske kaaranon mein gatiheen jeevanshaili, aswasthya kar aahar, dhumrapan, ucch raktchaap aur ucch cholesterol shamil hain. Anuvanshiki bhi ek bhumika nibha sakti hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 127,
+    "query": "How can we prevent Cardiovascular disease?",
+    "intent": "prevention",
+    "entity": "Cardiovascular disease",
+    "answer": "Prevention involves maintaining a healthy lifestyle, including a balanced diet, regular physical activity, managing blood pressure and cholesterol, and quitting smoking.",
+    "language": "en"
+  },
+  {
+    "id": 232,
+    "query": "What is the prevention for heart disease?",
+    "intent": "prevention",
+    "entity": "Cardiovascular disease",
+    "answer": "Prevention involves maintaining a healthy lifestyle, including a balanced diet, regular physical activity, managing blood pressure and cholesterol, and quitting smoking.",
+    "language": "en"
+  },
+  {
+    "id": 128,
+    "query": "हृदय रोग को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Cardiovascular disease",
+    "answer": "रोकथाम में एक स्वस्थ जीवन शैली बनाए रखना शामिल है, जिसमें संतुलित आहार, नियमित शारीरिक गतिविधि, रक्तचाप और कोलेस्ट्रॉल का प्रबंधन और धूम्रपान छोड़ना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 233,
+    "query": "Hriday rog se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Cardiovascular disease",
+    "answer": "Roktham mein ek swasth jeevan shaili banaye rakhna shamil hai, jismein santulit aahar, niyamit sharirik gatividhi, raktchaap aur cholesterol ka prabandhan aur dhumrapan chhodna shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 130,
+    "query": "What are the treatments available for Cardiovascular disease?",
+    "intent": "treatment",
+    "entity": "Cardiovascular disease",
+    "answer": "Treatment can include medications like blood thinners, lifestyle changes, and surgical procedures such as angioplasty or bypass surgery.",
+    "language": "en"
+  },
+  {
+    "id": 234,
+    "query": "How to treat heart disease?",
+    "intent": "treatment",
+    "entity": "Cardiovascular disease",
+    "answer": "Treatment can include medications like blood thinners, lifestyle changes, and surgical procedures such as angioplasty or bypass surgery.",
+    "language": "en"
+  },
+  {
+    "id": 131,
+    "query": "हृदय रोग का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Cardiovascular disease",
+    "answer": "उपचार में रक्त पतला करने वाली दवाएं, जीवनशैली में बदलाव और एंजियोप्लास्टी या बाईपास सर्जरी जैसी शल्य चिकित्सा प्रक्रियाएं शामिल हो सकती हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 235,
+    "query": "Hriday rog ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Cardiovascular disease",
+    "answer": "Upchar mein rakt patla karne wali davayen, jeevanshaili mein badlav aur angioplasty ya bypass surgery jaisi shalya chikitsa prakriyayen shamil ho sakti hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 133,
+    "query": "What are the symptoms of Cancer?",
+    "intent": "symptoms",
+    "entity": "Cancer",
+    "answer": "Symptoms of Cancer vary, but common signs include unexplained weight loss, fatigue, a lump or thickening under the skin, and changes in bowel or bladder habits.",
+    "language": "en"
+  },
+  {
+    "id": 236,
+    "query": "Signs of Cancer?",
+    "intent": "symptoms",
+    "entity": "Cancer",
+    "answer": "Symptoms of Cancer vary, but common signs include unexplained weight loss, fatigue, a lump or thickening under the skin, and changes in bowel or bladder habits.",
+    "language": "en"
+  },
+  {
+    "id": 134,
+    "query": "कैंसर के लक्षण क्या हैं?",
+    "intent": "symptoms",
+    "entity": "Cancer",
+    "answer": "कैंसर के लक्षण अलग-अलग होते हैं, लेकिन सामान्य लक्षणों में अस्पष्टीकृत वजन घटना, थकान, त्वचा के नीचे गांठ या मोटा होना और मल त्याग या मूत्राशय की आदतों में बदलाव शामिल हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 237,
+    "query": "Cancer ke kya lakshan hote hain?",
+    "intent": "symptoms",
+    "entity": "Cancer",
+    "answer": "Cancer ke lakshan alag-alag hote hain, lekin samanya lakshan mein aspashtikrit vajan ghatna, thakan, tvacha ke niche ganth ya mota hona aur mal tyag ya mutrashay ki aadat mein badlav shamil hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 136,
+    "query": "What causes Cancer?",
+    "intent": "causes",
+    "entity": "Cancer",
+    "answer": "Cancer is caused by genetic mutations that allow cells to grow uncontrollably. These mutations can be inherited or caused by environmental factors like tobacco smoke, radiation, and viruses.",
+    "language": "en"
+  },
+  {
+    "id": 238,
+    "query": "Why do people get Cancer?",
+    "intent": "causes",
+    "entity": "Cancer",
+    "answer": "Cancer is caused by genetic mutations that allow cells to grow uncontrollably. These mutations can be inherited or caused by environmental factors like tobacco smoke, radiation, and viruses.",
+    "language": "en"
+  },
+  {
+    "id": 137,
+    "query": "कैंसर का कारण क्या है?",
+    "intent": "causes",
+    "entity": "Cancer",
+    "answer": "कैंसर आनुवंशिक उत्परिवर्तन के कारण होता है जो कोशिकाओं को अनियंत्रित रूप से बढ़ने की अनुमति देता है। ये उत्परिवर्तन विरासत में मिल सकते हैं या तंबाकू के धुएं, विकिरण और वायरस जैसे पर्यावरणीय कारकों के कारण हो सकते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 239,
+    "query": "Cancer kis wajah se hota hai?",
+    "intent": "causes",
+    "entity": "Cancer",
+    "answer": "Cancer anuvanshik utparivartan ke karan hota hai jo koshikaon ko aniyantrit roop se badhne ki anumati deta hai. Ye utparivartan virasat mein mil sakte hain ya tambaku ke dhuen, vikiran aur virus jaise paryavaraniy karakon ke karan ho sakte hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 139,
+    "query": "How can we prevent Cancer?",
+    "intent": "prevention",
+    "entity": "Cancer",
+    "answer": "Prevention includes avoiding tobacco, maintaining a healthy weight, eating a healthy diet, limiting alcohol, and getting regular cancer screenings.",
+    "language": "en"
+  },
+  {
+    "id": 240,
+    "query": "How to prevent cancer?",
+    "intent": "prevention",
+    "entity": "Cancer",
+    "answer": "Prevention includes avoiding tobacco, maintaining a healthy weight, eating a healthy diet, limiting alcohol, and getting regular cancer screenings.",
+    "language": "en"
+  },
+  {
+    "id": 140,
+    "query": "कैंसर को कैसे रोका जा सकता है?",
+    "intent": "prevention",
+    "entity": "Cancer",
+    "answer": "रोकथाम में तंबाकू से परहेज, स्वस्थ वजन बनाए रखना, स्वस्थ आहार लेना, शराब को सीमित करना और नियमित कैंसर स्क्रीनिंग करवाना शामिल है।",
+    "language": "hi"
+  },
+  {
+    "id": 241,
+    "query": "Cancer se kaise bachein?",
+    "intent": "prevention",
+    "entity": "Cancer",
+    "answer": "Roktham mein tambaku se parhez, swasth vajan banaye rakhna, swasth aahar lena, sharab ko seemit karna aur niyamit cancer screening karwana shamil hai.",
+    "language": "hinglish"
+  },
+  {
+    "id": 142,
+    "query": "What are the treatments available for Cancer?",
+    "intent": "treatment",
+    "entity": "Cancer",
+    "answer": "Treatment for Cancer can include surgery, chemotherapy, radiation therapy, immunotherapy, and targeted drug therapy.",
+    "language": "en"
+  },
+  {
+    "id": 242,
+    "query": "How to treat Cancer?",
+    "intent": "treatment",
+    "entity": "Cancer",
+    "answer": "Treatment for Cancer can include surgery, chemotherapy, radiation therapy, immunotherapy, and targeted drug therapy.",
+    "language": "en"
+  },
+  {
+    "id": 143,
+    "query": "कैंसर का उपचार क्या है?",
+    "intent": "treatment",
+    "entity": "Cancer",
+    "answer": "कैंसर के उपचार में सर्जरी, कीमोथेरेपी, विकिरण चिकित्सा, इम्यूनोथेरेपी और लक्षित दवा चिकित्सा शामिल हो सकते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": 243,
+    "query": "Cancer ka ilaaj kya hai?",
+    "intent": "treatment",
+    "entity": "Cancer",
+    "answer": "Cancer ke upchar mein surgery, chemotherapy, vikiran chikitsa, immunotherapy aur lakshit dava chikitsa shamil ho sakte hain.",
+    "language": "hinglish"
+  },
+  {
+    "id": 244,
+    "query": "What is Ayushman Bharat?",
+    "intent": "get_scheme_info",
+    "entity": "Ayushman Bharat",
+    "answer": null,
+    "language": "en"
+  },
+  {
+    "id": 245,
+    "query": "Ayushman Bharat scheme ke baare mein batao.",
+    "intent": "get_scheme_info",
+    "entity": "Ayushman Bharat",
+    "answer": null,
+    "language": "hi"
+  },
+  {
+    "id": 246,
+    "query": "PM-JAY kya hai?",
+    "intent": "get_scheme_info",
+    "entity": "PM-JAY",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 247,
+    "query": "What are the benefits of Ayushman Bharat?",
+    "intent": "get_scheme_info",
+    "entity": "Ayushman Bharat",
+    "answer": null,
+    "language": "en"
+  },
+  {
+    "id": 248,
+    "query": "Ayushman Bharat ki eligibility kya hai?",
+    "intent": "get_eligibility",
+    "entity": "Ayushman Bharat",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 249,
+    "query": "What is Pradhan Mantri Jan Aushadhi Pariyojana?",
+    "intent": "get_scheme_info",
+    "entity": "Pradhan Mantri Jan Aushadhi Pariyojana",
+    "answer": null,
+    "language": "en"
+  },
+  {
+    "id": 250,
+    "query": "Sasti dawai kahan milti hai?",
+    "intent": "get_scheme_info",
+    "entity": "dawai",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 251,
+    "query": "Jan Aushadhi Kendra ke baare mein batao.",
+    "intent": "get_scheme_info",
+    "entity": "Jan Aushadhi Kendra",
+    "answer": null,
+    "language": "hi"
+  },
+  {
+    "id": 252,
+    "query": "Tell me about National Health Mission.",
+    "intent": "get_scheme_info",
+    "entity": "National Health Mission",
+    "answer": null,
+    "language": "en"
+  },
+  {
+    "id": 253,
+    "query": "NHM kya hai?",
+    "intent": "get_scheme_info",
+    "entity": "NHM",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 254,
+    "query": "Mission Indradhanush ke bare mein jankari do.",
+    "intent": "get_scheme_info",
+    "entity": "Mission Indradhanush",
+    "answer": null,
+    "language": "hi"
+  },
+  {
+    "id": 255,
+    "query": "Bachchon ke teekakaran ka koi scheme hai?",
+    "intent": "get_scheme_info",
+    "entity": "teekakaran",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 256,
+    "query": "What is National Ayush Mission?",
+    "intent": "get_scheme_info",
+    "entity": "National Ayush Mission",
+    "answer": null,
+    "language": "en"
+  },
+  {
+    "id": 257,
+    "query": "Ayurveda aur Yoga ke liye koi scheme hai?",
+    "intent": "get_scheme_info",
+    "entity": "Ayurveda",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 258,
+    "query": "Pradhan Mantri Suraksha Bima Yojana kya hai?",
+    "intent": "get_scheme_info",
+    "entity": "Pradhan Mantri Suraksha Bima Yojana",
+    "answer": null,
+    "language": "hi"
+  },
+  {
+    "id": 259,
+    "query": "PMSBY kya hai?",
+    "intent": "get_scheme_info",
+    "entity": "PMSBY",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 260,
+    "query": "Rashtriya Bal Swasthya Karyakram ki jankari do.",
+    "intent": "get_scheme_info",
+    "entity": "Rashtriya Bal Swasthya Karyakram",
+    "answer": null,
+    "language": "hi"
+  },
+  {
+    "id": 261,
+    "query": "RBSK kya hai?",
+    "intent": "get_scheme_info",
+    "entity": "RBSK",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 262,
+    "query": "Janani Shishu Suraksha Karyakram ke baare mein batao.",
+    "intent": "get_scheme_info",
+    "entity": "Janani Shishu Suraksha Karyakram",
+    "answer": null,
+    "language": "hi"
+  },
+  {
+    "id": 263,
+    "query": "JSSK kya hai?",
+    "intent": "get_scheme_info",
+    "entity": "JSSK",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 264,
+    "query": "Pradhan Mantri Matru Vandana Yojana ke benefits kya hain?",
+    "intent": "get_scheme_info",
+    "entity": "Pradhan Mantri Matru Vandana Yojana",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 265,
+    "query": "PMMVY kya hai?",
+    "intent": "get_scheme_info",
+    "entity": "PMMVY",
+    "answer": null,
+    "language": "hinglish"
+  },
+  {
+    "id": 266,
+    "query": "Rashtriya Kishore Swasthya Karyakram ke baare mein jankari chahiye.",
+    "intent": "get_scheme_info",
+    "entity": "Rashtriya Kishore Swasthya Karyakram",
+    "answer": null,
+    "language": "hi"
+  },
+  {
+    "id": 267,
+    "query": "RKSK kya hai?",
+    "intent": "get_scheme_info",
+    "entity": "RKSK",
+    "answer": null,
+    "language": "hinglish"
+  }
+]
